@@ -4,7 +4,19 @@ Tutte le novità, i miglioramenti e le correzioni — scritte per te, non per gl
 
 ---
 
-## Versione 1.0.3 — 14 maggio 2026 *(ultima versione)*
+## Versione 1.0.4 — 14 maggio 2026 *(ultima versione)*
+
+### Correzioni
+- La scheda profilo condivisibile ora mostra il logo ufficiale Pollitalia
+- La frase motivazionale sulla scheda è ora grande e leggibile — pensata per essere condivisa
+- Il link referral indicava +200 crediti — corretto in +50 (il valore reale)
+- I testi secondari in modalità scura erano poco leggibili — ora più chiari
+- Nel barometro alcune percentuali erano quasi invisibili — ora visibili
+- Nei sondaggi, mettere like o rispondere a un commento non scorreva più la pagina all'area di testo
+
+---
+
+## Versione 1.0.3 — 14 maggio 2026
 
 ### Correzioni
 - I grafici nel barometro e nel profilo mostravano codice invece dei numeri — risolto

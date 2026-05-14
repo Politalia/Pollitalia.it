@@ -1,6 +1,6 @@
 # Pollitalia — Changelog
 
-Tutte le novità, i miglioramenti e le correzioni di [**Pollitalia**](https://pollitalia.it) — il prediction market sulla politica italiana.
+Tutte le novità, i miglioramenti e le correzioni di [**Pollitalia**](https://pollitalia.it) — il primo prediction market sulla politica italiana.
 
 ## Versione attuale: 1.0.2
 

@@ -9,6 +9,7 @@ Tutte le novità, i miglioramenti e le correzioni — scritte per te, non per gl
 ### Correzioni
 - I grafici nel barometro e nel profilo mostravano codice invece dei numeri — risolto
 - I premi mensili nel pannello admin mostravano codice HTML invece del testo — risolto
+- Versione nel footer aggiornata correttamente
 - La cartina dell'Italia aveva uno spazio vuoto enorme sotto — risolto
 - Le icone decorative nelle schede statistiche erano quasi invisibili — ora visibili
 

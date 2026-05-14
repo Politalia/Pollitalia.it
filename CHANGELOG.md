@@ -4,7 +4,20 @@ Tutte le novità, i miglioramenti e le correzioni — scritte per te, non per gl
 
 ---
 
-## Versione 1.0.2 — 14 maggio 2026 *(ultima versione)*
+## Versione 1.0.3 — 14 maggio 2026 *(ultima versione)*
+
+### Correzioni
+- I grafici nel barometro e nel profilo mostravano codice invece dei numeri — risolto
+- I premi mensili nel pannello admin mostravano codice HTML invece del testo — risolto
+- La cartina dell'Italia aveva uno spazio vuoto enorme sotto — risolto
+- Le icone decorative nelle schede statistiche erano quasi invisibili — ora visibili
+
+### Modifiche
+- Data di lancio aggiornata al 15 giugno 2026
+
+---
+
+## Versione 1.0.2 — 14 maggio 2026
 
 ### Correzioni
 - Risolto un problema su Chrome mobile per cui la pagina continuava a scorrere oltre il fondo

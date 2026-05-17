@@ -4,7 +4,17 @@ Tutte le novità, i miglioramenti e le correzioni — scritte per te, non per gl
 
 ---
 
-## Versione 1.0.4 — 14 maggio 2026 *(ultima versione)*
+## Versione 1.0.5 — 17 maggio 2026 *(ultima versione)*
+
+### Correzioni
+- Il banner cookie su desktop era sollevato dalla barra inferiore — ora è ancorato correttamente in basso
+- Il banner "Attiva le notifiche" su desktop era posizionato troppo in basso — ora appare correttamente
+- Le notifiche arrivano ora su tutti i dispositivi collegati (telefono + PC) — non solo sull'ultimo usato
+- Risolto un bug che causava l'invio doppio di notifiche in alcuni casi
+
+---
+
+## Versione 1.0.4 — 14 maggio 2026
 
 ### Correzioni
 - La scheda profilo condivisibile ora mostra il logo ufficiale Pollitalia

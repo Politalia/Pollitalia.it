@@ -4,7 +4,21 @@ Tutte le novità, i miglioramenti e le correzioni — scritte per te, non per gl
 
 ---
 
-## Versione 1.1.0 — 18 maggio 2026 *(ultima versione)*
+## Versione 1.1.2 — 18 maggio 2026 *(ultima versione)*
+
+### Correzioni
+- Quando esci da una lega, ora scompare subito dalla tua lista — prima dovevi aggiornare la pagina
+
+---
+
+## Versione 1.1.1 — 18 maggio 2026
+
+### Correzioni
+- Le pagine delle leghe si aprono correttamente al primo accesso dopo esserti unito — non resta più in caricamento perpetuo
+
+---
+
+## Versione 1.1.0 — 18 maggio 2026
 
 ### Sicurezza
 - Rafforzata la protezione delle leghe private — le password ora sono criptate, non più visibili in chiaro nemmeno al creatore della lega

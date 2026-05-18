@@ -4,7 +4,45 @@ Tutte le novità, i miglioramenti e le correzioni — scritte per te, non per gl
 
 ---
 
-## Versione 1.0.5 — 17 maggio 2026 *(ultima versione)*
+## Versione 1.1.0 — 18 maggio 2026 *(ultima versione)*
+
+### Sicurezza
+- Rafforzata la protezione delle leghe private — le password ora sono criptate, non più visibili in chiaro nemmeno al creatore della lega
+- Maggiore protezione contro il voto multiplo nei sondaggi
+- Bonus referral protetto: serve email verificata per attivarlo, ed è impossibile abusarne con account multipli
+- Maggiore privacy GDPR — i dati personali (email, data di nascita) non sono più visibili pubblicamente
+- Aggiunti limiti sicuri sulle scommesse per evitare manipolazioni
+- Filtri più severi sui nomi utente — niente più caratteri strani o tentativi di iniezione di codice
+
+### Miglioramenti
+- I contatori in homepage (utenti / mercati / scommesse) sono ora aggiornati in tempo reale e molto più veloci da caricare
+- Sondaggi: like e voti più affidabili anche su sondaggi vecchi
+- Il countdown al lancio si mette in pausa quando lasci la scheda — niente più drift di tempo
+- Notifiche più stabili: niente più doppi avvisi sugli stessi eventi
+
+### Correzioni
+- Risolto un caso in cui la versione mostrata in fondo alla pagina "Chi siamo" rimaneva vecchia
+
+---
+
+## Versione 1.0.7 — 18 maggio 2026
+
+### Correzioni
+- Scroll molto più fluido su iPhone — risolto un blocco che impediva al banner cookie e alla barra di navigazione di restare fissi
+- Scroll più fluido anche su Android — eliminato lo scatto che si vedeva sulla barra inferiore in Chrome
+- Tornando indietro col tasto del browser, la pagina non resta più bianca per un istante
+- Il sito riceve gli aggiornamenti molto più velocemente — niente più versioni vecchie servite per ore dalla cache
+
+---
+
+## Versione 1.0.6 — 17 maggio 2026
+
+### Miglioramenti
+- Nuova conferma di voto nei sondaggi — premendo SÌ, NO o un'opzione multipla, una finestra ti chiede conferma prima di registrare il voto. Niente più voti accidentali.
+
+---
+
+## Versione 1.0.5 — 17 maggio 2026
 
 ### Correzioni
 - Il banner cookie su desktop era sollevato dalla barra inferiore — ora è ancorato correttamente in basso

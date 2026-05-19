@@ -4,7 +4,15 @@ Tutte le novità, i miglioramenti e le correzioni — scritte per te, non per gl
 
 ---
 
-## Versione 1.1.4 — 19 maggio 2026 *(ultima versione)*
+## Versione 1.1.6 — 19 maggio 2026 *(ultima versione)*
+
+### Correzioni
+- Il prompt "Nuova versione disponibile" ora compare anche quando hai l'app aperta in background — l'app controlla automaticamente la presenza di aggiornamenti ogni minuto, senza bisogno di chiuderla e riaprirla
+- Stabilità generale del processo di aggiornamento dell'app sui dispositivi iOS
+
+---
+
+## Versione 1.1.4 — 19 maggio 2026
 
 ### Sicurezza
 - Aggiunta protezione anti-bot (App Check con reCAPTCHA Enterprise di Google): il server ora riconosce le chiamate provenienti da browser reali e respingerà automatizzazioni indesiderate quando arriverà il momento

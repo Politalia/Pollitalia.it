@@ -4,7 +4,18 @@ Tutte le novità, i miglioramenti e le correzioni — scritte per te, non per gl
 
 ---
 
-## Versione 1.1.2 — 18 maggio 2026 *(ultima versione)*
+## Versione 1.1.4 — 19 maggio 2026 *(ultima versione)*
+
+### Sicurezza
+- Aggiunta protezione anti-bot (App Check con reCAPTCHA Enterprise di Google): il server ora riconosce le chiamate provenienti da browser reali e respingerà automatizzazioni indesiderate quando arriverà il momento
+
+### Correzioni
+- Ripristinato il prompt "Nuova versione disponibile" — l'aggiornamento dell'app sul tuo dispositivo funziona di nuovo automaticamente
+- Risolto un bug per cui il logo del sito non veniva caricato correttamente in alcune condizioni di rete
+
+---
+
+## Versione 1.1.2 — 18 maggio 2026
 
 ### Correzioni
 - Quando esci da una lega, ora scompare subito dalla tua lista — prima dovevi aggiornare la pagina

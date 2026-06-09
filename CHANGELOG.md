@@ -4,7 +4,21 @@ Tutte le novità, i miglioramenti e le correzioni — scritte per te, non per gl
 
 ---
 
-## Versione 1.1.6 — 19 maggio 2026 *(ultima versione)*
+## Versione 1.1.9 — 9 giugno 2026 *(ultima versione)*
+
+### Correzioni
+- Quando scarichi la tua scheda statistiche dal profilo, il file ora ha il nome corretto "pollitalia-tuonome.png" (prima usava il vecchio nome del brand)
+
+---
+
+## Versione 1.1.8 — 20 maggio 2026
+
+### Correzioni
+- Risolto un bug che, dopo aver fatto login con un'email non ancora verificata, ti faceva vedere la dashboard per un istante e poi ti rimandava fuori senza messaggio. Ora vedi subito la notifica "Email non verificata" e puoi richiedere il rinvio dell'email
+
+---
+
+## Versione 1.1.6 — 19 maggio 2026
 
 ### Correzioni
 - Il prompt "Nuova versione disponibile" ora compare anche quando hai l'app aperta in background — l'app controlla automaticamente la presenza di aggiornamenti ogni minuto, senza bisogno di chiuderla e riaprirla

@@ -4,7 +4,15 @@ Tutte le novità, i miglioramenti e le correzioni — scritte per te, non per gl
 
 ---
 
-## Versione 1.1.9 — 9 giugno 2026 *(ultima versione)*
+## Versione 1.1.10 — 10 luglio 2026 *(ultima versione)*
+
+### Correzioni
+- Risolte le **notifiche doppie**: quando qualcuno commentava o votava un sondaggio, a volte arrivavano due notifiche identiche. Ora ne arriva una sola
+- Sistemata l'**animazione di apertura su iPhone**: su Safari e Chrome mobile a volte non partiva e restavi qualche secondo su schermo nero prima di entrare. Ora parte correttamente
+
+---
+
+## Versione 1.1.9 — 9 giugno 2026
 
 ### Correzioni
 - Quando scarichi la tua scheda statistiche dal profilo, il file ora ha il nome corretto "pollitalia-tuonome.png" (prima usava il vecchio nome del brand)

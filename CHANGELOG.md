@@ -4,7 +4,17 @@ Tutte le novità, i miglioramenti e le correzioni — scritte per te, non per gl
 
 ---
 
-## Versione 1.1.13 — 13 luglio 2026 *(ultima versione)*
+## Versione 1.1.14 — 13 luglio 2026 *(ultima versione)*
+
+### Sicurezza & Privacy
+- Le tue **scommesse** ora sono private: solo tu (e lo staff) potete vederle. Nel barometro e nelle classifiche restano solo i dati aggregati e anonimi
+
+### Miglioramenti
+- Barometro e classifica mensile molto più veloci da caricare, anche con tanti dati
+
+---
+
+## Versione 1.1.13 — 13 luglio 2026
 
 ### Sicurezza & Privacy
 - I tuoi **dati personali** (email e data di nascita) ora sono protetti: non sono più visibili agli altri utenti. Nelle classifiche e nel barometro restano visibili solo nome, avatar e statistiche di gioco

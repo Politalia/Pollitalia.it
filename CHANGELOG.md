@@ -4,7 +4,18 @@ Tutte le novità, i miglioramenti e le correzioni — scritte per te, non per gl
 
 ---
 
-## Versione 1.1.10 — 10 luglio 2026 *(ultima versione)*
+## Versione 1.1.11 — 13 luglio 2026 *(ultima versione)*
+
+### Sicurezza
+- Rafforzati i controlli sui crediti per prevenire abusi nelle scommesse
+- Chiusi alcuni punti deboli che avrebbero potuto permettere l'esecuzione di codice non autorizzato in alcune pagine
+
+### Miglioramenti
+- La gestione dei cookie ora rispetta correttamente la tua scelta su "Accetta" o "Rifiuta" per le statistiche di navigazione
+
+---
+
+## Versione 1.1.10 — 10 luglio 2026
 
 ### Correzioni
 - Risolte le **notifiche doppie**: quando qualcuno commentava o votava un sondaggio, a volte arrivavano due notifiche identiche. Ora ne arriva una sola

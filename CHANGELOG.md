@@ -4,7 +4,14 @@ Tutte le novità, i miglioramenti e le correzioni — scritte per te, non per gl
 
 ---
 
-## Versione 1.1.14 — 13 luglio 2026 *(ultima versione)*
+## Versione 1.1.15 — 13 luglio 2026 *(ultima versione)*
+
+### Miglioramenti
+- Homepage, pannello statistiche e conteggio commenti più veloci e leggeri
+
+---
+
+## Versione 1.1.14 — 13 luglio 2026
 
 ### Sicurezza & Privacy
 - Le tue **scommesse** ora sono private: solo tu (e lo staff) potete vederle. Nel barometro e nelle classifiche restano solo i dati aggregati e anonimi

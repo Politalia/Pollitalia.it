@@ -4,7 +4,21 @@ Tutte le novità, i miglioramenti e le correzioni — scritte per te, non per gl
 
 ---
 
-## Versione 1.1.11 — 13 luglio 2026 *(ultima versione)*
+## Versione 1.1.12 — 13 luglio 2026 *(ultima versione)*
+
+### Correzioni
+- La **ricarica mensile di crediti** ora viene accreditata puntualmente a tutti (prima in alcuni casi non arrivava)
+
+### Sicurezza
+- Rafforzata la protezione dei crediti nelle scommesse e nelle leghe private
+- Migliorata la protezione dei sondaggi contro tentativi di manipolazione
+
+### Miglioramenti
+- Aggiornamenti dell'app più fluidi: ora ti chiediamo conferma prima di ricaricare la pagina, senza interruzioni improvvise
+
+---
+
+## Versione 1.1.11 — 13 luglio 2026
 
 ### Sicurezza
 - Rafforzati i controlli sui crediti per prevenire abusi nelle scommesse

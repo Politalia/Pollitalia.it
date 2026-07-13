@@ -4,7 +4,14 @@ Tutte le novità, i miglioramenti e le correzioni — scritte per te, non per gl
 
 ---
 
-## Versione 1.1.12 — 13 luglio 2026 *(ultima versione)*
+## Versione 1.1.13 — 13 luglio 2026 *(ultima versione)*
+
+### Sicurezza & Privacy
+- I tuoi **dati personali** (email e data di nascita) ora sono protetti: non sono più visibili agli altri utenti. Nelle classifiche e nel barometro restano visibili solo nome, avatar e statistiche di gioco
+
+---
+
+## Versione 1.1.12 — 13 luglio 2026
 
 ### Correzioni
 - La **ricarica mensile di crediti** ora viene accreditata puntualmente a tutti (prima in alcuni casi non arrivava)

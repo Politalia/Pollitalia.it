@@ -9,9 +9,6 @@ Tutte le novità, i miglioramenti e le correzioni — scritte per te, non per gl
 ### Correzioni
 - Scroll più fluido sulla lista dei mercati su iPhone: torna l'inerzia naturale quando scorri e lasci il dito, e il primo swipe dopo una pausa risponde subito
 
-### Miglioramenti
-- Ora puoi ingrandire le pagine con le dita (pinch-to-zoom) su tutti i dispositivi — lettura più comoda, soprattutto per chi ha difficoltà visive
-
 ---
 
 ## Versione 1.1.15 — 13 luglio 2026

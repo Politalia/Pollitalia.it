@@ -4,7 +4,16 @@ Tutte le novità, i miglioramenti e le correzioni — scritte per te, non per gl
 
 ---
 
-## Versione 1.1.16 — 14 luglio 2026 *(ultima versione)*
+## Versione 1.1.19 — 15 luglio 2026 *(ultima versione)*
+
+### Correzioni
+- L'animazione di apertura ora parte sempre: prima capitava di vedere una schermata nera per qualche secondo al posto del logo
+- La home si apre molto più in fretta
+- Su iPhone le pagine non si spostano più di lato: Barometro, Classifica, Sondaggi e Leghe restano ferme mentre scorri
+
+---
+
+## Versione 1.1.16 — 14 luglio 2026
 
 ### Correzioni
 - Scroll più fluido sulla lista dei mercati su iPhone: torna l'inerzia naturale quando scorri e lasci il dito, e il primo swipe dopo una pausa risponde subito

@@ -4,7 +4,14 @@ Tutte le novità, i miglioramenti e le correzioni — scritte per te, non per gl
 
 ---
 
-## Versione 1.1.19 — 15 luglio 2026 *(ultima versione)*
+## Versione 1.1.20 — 15 luglio 2026 *(ultima versione)*
+
+### Miglioramenti
+- Il sito si carica molto più leggero: le immagini pesano l'84% in meno, soprattutto con la connessione del telefono
+
+---
+
+## Versione 1.1.19 — 15 luglio 2026
 
 ### Correzioni
 - L'animazione di apertura ora parte sempre: prima capitava di vedere una schermata nera per qualche secondo al posto del logo

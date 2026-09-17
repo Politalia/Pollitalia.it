@@ -4,7 +4,33 @@ Tutte le novità, i miglioramenti e le correzioni — scritte per te, non per gl
 
 ---
 
-## Versione 1.1.20 — 15 luglio 2026 *(ultima versione)*
+## Versione 1.2.0 — 16 settembre 2026 *(ultima versione)*
+
+### Novità
+- I sondaggi si possono guardare anche senza account: risultati e commenti sono visibili a tutti, e l'account serve solo per votare, commentare o crearne uno
+- Se ti registri o accedi partendo da un sondaggio, dopo l'accesso torni proprio a quel sondaggio
+
+### Correzioni
+- Dopo aver votato non compare più il messaggio di errore rosso: il voto era sempre andato a buon fine
+- Il "mi piace" ai commenti degli altri adesso funziona
+- Il numero di voti si aggiorna subito dopo il tuo voto
+
+### Da sapere
+- Con questo aggiornamento i voti e i "mi piace" dati finora ai sondaggi sono stati azzerati: si riparte da zero
+
+---
+
+## Versione 1.1.27 — 15 settembre 2026
+
+### Novità
+- Le previsioni sono aperte a tutti: non serve più aspettare, puoi giocare i tuoi crediti virtuali da subito
+
+### Correzioni
+- Tolto il conto alla rovescia per l'apertura, che era rimasto fermo a zero
+
+---
+
+## Versione 1.1.20 — 15 luglio 2026
 
 ### Miglioramenti
 - Il sito si carica molto più leggero: le immagini pesano l'84% in meno, soprattutto con la connessione del telefono

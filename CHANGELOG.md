@@ -4,7 +4,24 @@ Tutte le novità, i miglioramenti e le correzioni — scritte per te, non per gl
 
 ---
 
-## Versione 1.2.0 — 16 settembre 2026 *(ultima versione)*
+## Versione 1.3.0 — 17 settembre 2026 *(ultima versione)*
+
+### Novità
+- I sondaggi si sfogliano una scheda alla volta: trascina a destra per Sì, a sinistra per No, in basso per saltare
+- Dopo il voto scopri come ha votato l'Italia e puoi commentare e mettere mi piace
+- Nello Storico ritrovi i sondaggi che hai votato, creato o saltato
+- Quando crei un sondaggio puoi lasciarlo senza scadenza
+
+### Miglioramenti
+- Meno notifiche: per i voti ai tuoi sondaggi ti avvisiamo al primo voto e ai traguardi, non a ogni voto
+- Il link che condividi apre proprio quel sondaggio
+
+### Sicurezza
+- Corretta una vulnerabilità nella pagina dei sondaggi
+
+---
+
+## Versione 1.2.0 — 16 settembre 2026
 
 ### Novità
 - I sondaggi si possono guardare anche senza account: risultati e commenti sono visibili a tutti, e l'account serve solo per votare, commentare o crearne uno

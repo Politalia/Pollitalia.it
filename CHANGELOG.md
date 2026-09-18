@@ -4,7 +4,21 @@ Tutte le novità, i miglioramenti e le correzioni — scritte per te, non per gl
 
 ---
 
-## Versione 1.3.1 — 17 settembre 2026 *(ultima versione)*
+## Versione 1.4.0 — 17 settembre 2026 *(ultima versione)*
+
+### Novità
+- Aprendo pollitalia.it si entra subito nei sondaggi: niente più pagina di presentazione da attraversare
+- Si possono sfogliare tre sondaggi anche senza account, per capire com'è
+- Accesso e registrazione hanno una pagina dedicata, e dopo l'accesso torni al sondaggio da cui eri partito
+- Alla registrazione chiediamo anche la città: servirà per i sondaggi della tua zona
+
+### Miglioramenti
+- La pagina "Chi siamo" diventa "Cos'è Pollitalia" e racconta come funziona, schede comprese
+- La città si può cambiare dal profilo, quando cambi città
+
+---
+
+## Versione 1.3.1 — 17 settembre 2026
 
 ### Correzioni
 - Nelle leghe, chiudere un mercato non può più pagare due volte le vincite, nemmeno con un doppio tocco

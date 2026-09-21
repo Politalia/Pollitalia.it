@@ -4,7 +4,20 @@ Tutte le novità, i miglioramenti e le correzioni — scritte per te, non per gl
 
 ---
 
-## Versione 1.4.0 — 17 settembre 2026 *(ultima versione)*
+## Versione 1.5.0 — 21 settembre 2026 *(ultima versione)*
+
+### Novità
+- Dopo il voto vedi subito come ha votato l'Italia, e ti diciamo se sei in minoranza
+- La scheda dopo arriva da sola: tieni premuto per fermarti, commentare o condividere
+- Si può votare anche prima di registrarsi: le tue scelte si salvano quando entri
+- Arrivano i sondaggi di Pollitalia
+
+### Miglioramenti
+- Il codice amico non c'è più
+
+---
+
+## Versione 1.4.0 — 17 settembre 2026
 
 ### Novità
 - Aprendo pollitalia.it si entra subito nei sondaggi: niente più pagina di presentazione da attraversare

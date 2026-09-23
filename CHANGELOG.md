@@ -4,7 +4,17 @@ Tutte le novità, i miglioramenti e le correzioni — scritte per te, non per gl
 
 ---
 
-## Versione 1.5.0 — 21 settembre 2026 *(ultima versione)*
+## Versione 1.5.1 — 23 settembre 2026 *(ultima versione)*
+
+### Correzioni
+- Alla prima visita il banner dei cookie non copre più i pulsanti sotto il risultato
+
+### Sicurezza
+- Aggiornati i componenti del server che fanno girare Pollitalia
+
+---
+
+## Versione 1.5.0 — 21 settembre 2026
 
 ### Novità
 - Dopo il voto vedi subito come ha votato l'Italia, e ti diciamo se sei in minoranza

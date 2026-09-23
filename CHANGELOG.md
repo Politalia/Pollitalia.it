@@ -4,7 +4,17 @@ Tutte le novità, i miglioramenti e le correzioni — scritte per te, non per gl
 
 ---
 
-## Versione 1.5.1 — 23 settembre 2026 *(ultima versione)*
+## Versione 1.5.2 — 23 settembre 2026 *(ultima versione)*
+
+### Novità
+- Sulle domande con due risposte fai swipe verso quella che scegli: a sinistra la prima, a destra la seconda
+
+### Miglioramenti
+- Il risultato resta a schermo un po' di più prima che arrivi la scheda dopo
+
+---
+
+## Versione 1.5.1 — 23 settembre 2026
 
 ### Correzioni
 - Alla prima visita il banner dei cookie non copre più i pulsanti sotto il risultato

@@ -4,7 +4,16 @@ Tutte le novità, i miglioramenti e le correzioni — scritte per te, non per gl
 
 ---
 
-## Versione 1.5.2 — 23 settembre 2026 *(ultima versione)*
+## Versione 1.5.3 — 24 settembre 2026 *(ultima versione)*
+
+### Miglioramenti
+- Le domande hanno un carattere più leggibile, anche quando sono lunghe
+- Nello Storico, nei mercati e nelle leghe il No sta a sinistra e il Sì a destra, come quando fai swipe
+- Se apri un indirizzo che non esiste, ora trovi una pagina di Pollitalia che ti riporta ai sondaggi
+
+---
+
+## Versione 1.5.2 — 23 settembre 2026
 
 ### Novità
 - Sulle domande con due risposte fai swipe verso quella che scegli: a sinistra la prima, a destra la seconda

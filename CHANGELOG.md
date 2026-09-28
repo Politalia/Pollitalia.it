@@ -4,7 +4,14 @@ Tutte le novità, i miglioramenti e le correzioni — scritte per te, non per gl
 
 ---
 
-## Versione 1.6.5 — 28 settembre 2026 *(ultima versione)*
+## Versione 1.6.6 — 28 settembre 2026 *(ultima versione)*
+
+### Miglioramenti
+- Il Radar è verde, come un radar vero, e il Barometro prende il rosa
+
+---
+
+## Versione 1.6.5 — 28 settembre 2026
 
 ### Novità
 - Commenti nuovi: in cima il più piaciuto, il cuore a portata di pollice, le risposte sotto ogni commento e le emoji a un tocco

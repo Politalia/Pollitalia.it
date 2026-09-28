@@ -4,7 +4,40 @@ Tutte le novità, i miglioramenti e le correzioni — scritte per te, non per gl
 
 ---
 
-## Versione 1.5.3 — 24 settembre 2026 *(ultima versione)*
+## Versione 1.6.1 — 28 settembre 2026 *(ultima versione)*
+
+### Correzioni
+- L'animazione Poll / italia parte una volta sola, quando apri l'app o entri nel sito, da qualunque pagina: niente più replay quando tocchi Poll
+
+---
+
+## Versione 1.6.0 — 27 settembre 2026
+
+### Novità
+- Pollitalia ha cinque schede: Mercati, Barometro, Poll, Radar e Profilo
+- Nei Mercati ci sono le previsioni, in prova: fai una domanda su come andrà a finire, con la data di chiusura e la fonte, e alla fine si vede chi ci ha preso
+- La classifica di chi ci prende di più, e ogni mese il Predittore del Mese
+- Il Barometro mostra come vota l'Italia, regione per regione, dai voti dei sondaggi
+- Il Radar arriva presto: fatti avvisare quando si accende nella tua città
+- Nel profilo i tuoi numeri, e una card nuova da condividere
+
+### Miglioramenti
+- Sulle domande Sì o No la scheda vola verso la tua risposta, e sotto ci sono i tasti
+- Il voto parte subito, e il risultato resta finché non vai avanti tu
+- Icone, animazioni e logo nuovi
+- Puoi creare tutti i sondaggi che vuoi: non c'è più il limite di tre al giorno
+
+### Correzioni
+- Toccando una notifica si apre la pagina giusta
+- La registrazione con Google funziona anche coi nomi con l'apostrofo
+
+### Da sapere
+- I crediti non ci sono più, e con loro scommesse, leghe e premi: su Pollitalia si vota e si prova a indovinare, senza soldi e senza premi
+- Abbiamo aggiornato i Termini e la Privacy
+
+---
+
+## Versione 1.5.3 — 24 settembre 2026
 
 ### Miglioramenti
 - Le domande hanno un carattere più leggibile, anche quando sono lunghe

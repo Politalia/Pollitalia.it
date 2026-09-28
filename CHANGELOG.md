@@ -4,7 +4,15 @@ Tutte le novità, i miglioramenti e le correzioni — scritte per te, non per gl
 
 ---
 
-## Versione 1.6.1 — 28 settembre 2026 *(ultima versione)*
+## Versione 1.6.2 — 28 settembre 2026 *(ultima versione)*
+
+### Miglioramenti
+- Tocchi una scheda in basso e cambi pagina subito, senza attese
+- La pagina nuova si vede appena arriva, e le animazioni sono più leggere sul telefono
+
+---
+
+## Versione 1.6.1 — 28 settembre 2026
 
 ### Correzioni
 - L'animazione Poll / italia parte una volta sola, quando apri l'app o entri nel sito, da qualunque pagina: niente più replay quando tocchi Poll

@@ -4,7 +4,18 @@ Tutte le novità, i miglioramenti e le correzioni — scritte per te, non per gl
 
 ---
 
-## Versione 1.6.6 — 28 settembre 2026 *(ultima versione)*
+## Versione 1.6.7 — 28 settembre 2026 *(ultima versione)*
+
+### Correzioni
+- Quando mandi un commento la lista resta dov'era; se il tuo finisce fuori vista, un tasto ti ci porta quando vuoi
+- Le faccine vanno nel commento senza aprire la tastiera
+
+### Miglioramenti
+- Risposte, percentuali e pulsanti hanno gli stessi font in tutti i sondaggi
+
+---
+
+## Versione 1.6.6 — 28 settembre 2026
 
 ### Miglioramenti
 - Il Radar è verde, come un radar vero, e il Barometro prende il rosa

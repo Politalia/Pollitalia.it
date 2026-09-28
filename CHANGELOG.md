@@ -4,7 +4,15 @@ Tutte le novità, i miglioramenti e le correzioni — scritte per te, non per gl
 
 ---
 
-## Versione 1.6.3 — 28 settembre 2026 *(ultima versione)*
+## Versione 1.6.4 — 28 settembre 2026 *(ultima versione)*
+
+### Miglioramenti
+- Cambiando scheda le pagine si aprono subito, coi dati dell'ultima volta, e si aggiornano da sole
+- Quando esci dall'account, il telefono non tiene più i tuoi dati
+
+---
+
+## Versione 1.6.3 — 28 settembre 2026
 
 ### Miglioramenti
 - Lo swipe delle schede è più fluido

@@ -4,7 +4,18 @@ Tutte le novità, i miglioramenti e le correzioni — scritte per te, non per gl
 
 ---
 
-## Versione 1.6.4 — 28 settembre 2026 *(ultima versione)*
+## Versione 1.6.5 — 28 settembre 2026 *(ultima versione)*
+
+### Novità
+- Commenti nuovi: in cima il più piaciuto, il cuore a portata di pollice, le risposte sotto ogni commento e le emoji a un tocco
+
+### Correzioni
+- Mettere un like, commentare o rispondere non fa più saltare la pagina, e la tastiera resta aperta
+- Il cuore del mi piace sul sondaggio batte di nuovo
+
+---
+
+## Versione 1.6.4 — 28 settembre 2026
 
 ### Miglioramenti
 - Cambiando scheda le pagine si aprono subito, coi dati dell'ultima volta, e si aggiornano da sole

@@ -4,7 +4,15 @@ Tutte le novità, i miglioramenti e le correzioni — scritte per te, non per gl
 
 ---
 
-## Versione 1.6.2 — 28 settembre 2026 *(ultima versione)*
+## Versione 1.6.3 — 28 settembre 2026 *(ultima versione)*
+
+### Miglioramenti
+- Lo swipe delle schede è più fluido
+- Le pagine si aprono più in fretta: niente più attese di qualche secondo ogni tanto
+
+---
+
+## Versione 1.6.2 — 28 settembre 2026
 
 ### Miglioramenti
 - Tocchi una scheda in basso e cambi pagina subito, senza attese

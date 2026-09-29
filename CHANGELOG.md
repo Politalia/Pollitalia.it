@@ -4,7 +4,15 @@ Tutte le novità, i miglioramenti e le correzioni — scritte per te, non per gl
 
 ---
 
-## Versione 1.6.8 — 29 settembre 2026 *(ultima versione)*
+## Versione 1.7.0 — 29 settembre 2026 *(ultima versione)*
+
+### Novità
+- Radar è in BETA: rispondi a 5 domande veloci e ti propone cosa fare stasera. Per ora sono esempi: quando nella tua città c'è roba vera, ti avvisiamo
+- Le proposte si scorrono come i sondaggi: a destra Ci sta, a sinistra Passo, in giù Boh, forse
+
+---
+
+## Versione 1.6.8 — 29 settembre 2026
 
 ### Correzioni
 - Se ti registri con Google, prima di entrare ti chiediamo data di nascita, regione e comune, come con l'email: prima si saltava tutto

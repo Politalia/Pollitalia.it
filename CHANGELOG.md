@@ -4,7 +4,14 @@ Tutte le novità, i miglioramenti e le correzioni — scritte per te, non per gl
 
 ---
 
-## Versione 1.6.7 — 28 settembre 2026 *(ultima versione)*
+## Versione 1.6.8 — 29 settembre 2026 *(ultima versione)*
+
+### Correzioni
+- Se ti registri con Google, prima di entrare ti chiediamo data di nascita, regione e comune, come con l'email: prima si saltava tutto
+
+---
+
+## Versione 1.6.7 — 28 settembre 2026
 
 ### Correzioni
 - Quando mandi un commento la lista resta dov'era; se il tuo finisce fuori vista, un tasto ti ci porta quando vuoi

@@ -4,7 +4,15 @@ Tutte le novità, i miglioramenti e le correzioni — scritte per te, non per gl
 
 ---
 
-## Versione 1.7.0 — 29 settembre 2026 *(ultima versione)*
+## Versione 1.7.1 — 30 settembre 2026 *(ultima versione)*
+
+### Correzioni
+- Nel Radar la proposta che scorri parte da dove la lasci ed esce tutta dallo schermo, come nei sondaggi: prima tornava al centro per un attimo e spariva prima del bordo
+- Anche nel Radar basta un colpo veloce per mandare via una proposta
+
+---
+
+## Versione 1.7.0 — 29 settembre 2026
 
 ### Novità
 - Radar è in BETA: rispondi a 5 domande veloci e ti propone cosa fare stasera. Per ora sono esempi: quando nella tua città c'è roba vera, ti avvisiamo

@@ -4,7 +4,16 @@ Tutte le novità, i miglioramenti e le correzioni — scritte per te, non per gl
 
 ---
 
-## Versione 1.7.1 — 30 settembre 2026 *(ultima versione)*
+## Versione 1.7.2 — 30 settembre 2026 *(ultima versione)*
+
+### Novità
+- Nel Radar, dopo "Stasera che ti va?", una domanda in più per capire cosa ti va davvero: birra o vino, pizza o sushi, karaoke o ballare
+- Le proposte d'esempio sono 90 invece di 18, seguono quello che rispondi e cambiano da una volta all'altra
+- Prima delle proposte il Radar ti dice cosa ha capito. La prima volta ti spiega anche che per ora sono esempi: quelle vere arrivano quando i locali e chi organizza mettono le loro cose
+
+---
+
+## Versione 1.7.1 — 30 settembre 2026
 
 ### Correzioni
 - Nel Radar la proposta che scorri parte da dove la lasci ed esce tutta dallo schermo, come nei sondaggi: prima tornava al centro per un attimo e spariva prima del bordo

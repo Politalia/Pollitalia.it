@@ -4,7 +4,18 @@ Tutte le novità, i miglioramenti e le correzioni — scritte per te, non per gl
 
 ---
 
-## Versione 1.8.0 — 2 ottobre 2026 *(ultima versione)*
+## Versione 1.8.1 — 2 ottobre 2026 *(ultima versione)*
+
+### Miglioramenti
+- Se provi Pollitalia senza account e torni dopo un mese, hai di nuovo tre sondaggi da provare prima di entrare
+- I voti dati senza account restano nel telefono al massimo 30 giorni: se entri prima, li salviamo nel tuo account
+
+### Da sapere
+- Abbiamo aggiornato la Privacy e i Cookie
+
+---
+
+## Versione 1.8.0 — 2 ottobre 2026
 
 ### Novità
 - "Chi sei?": 8 domande veloci e ti diciamo che tipo sei, fra 16. Te lo proponiamo la prima volta che entri, e dal profilo lo rifai quando vuoi

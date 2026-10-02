@@ -4,7 +4,28 @@ Tutte le novità, i miglioramenti e le correzioni — scritte per te, non per gl
 
 ---
 
-## Versione 1.7.2 — 30 settembre 2026 *(ultima versione)*
+## Versione 1.8.0 — 2 ottobre 2026 *(ultima versione)*
+
+### Novità
+- "Chi sei?": 8 domande veloci e ti diciamo che tipo sei, fra 16. Te lo proponiamo la prima volta che entri, e dal profilo lo rifai quando vuoi
+- Il tuo ritratto disegnato a linee: lo cambi un pezzo alla volta e te lo ritrovi accanto al nome, ovunque, anche nella barra in basso
+- La card del tuo tipo, da mettere nelle storie o da salvare nelle foto
+- Il profilo nuovo, col tuo @ e una bio già pronta per il tuo tipo: se non ti convince ne prendi un'altra, o la scrivi tu. Le impostazioni stanno dietro l'ingranaggio
+- Sul profilo mostri solo i voti che scegli tu, uno per uno. Quelli sulla politica e sui temi delicati restano privati
+- Tocca un nome o un ritratto e vedi il profilo di chi c'è dietro. Ognuno ha il suo link, pollitalia.it/@nome, e se un profilo non va lo segnali
+- Le notifiche sono nuove: ogni sondaggio ha la sua scheda, con chi è passato e com'è andata. E scegli una per una quali ti arrivano sul telefono
+- Puoi eliminare l'account dal profilo: sondaggi, voti e commenti se ne vanno con lui, subito
+
+### Miglioramenti
+- Dopo il voto, ogni tanto, una frase per il tuo tipo
+- Quando esci dall'account torni ai sondaggi
+
+### Da sapere
+- Abbiamo aggiornato la Privacy, i Cookie e i Termini
+
+---
+
+## Versione 1.7.2 — 30 settembre 2026
 
 ### Novità
 - Nel Radar, dopo "Stasera che ti va?", una domanda in più per capire cosa ti va davvero: birra o vino, pizza o sushi, karaoke o ballare

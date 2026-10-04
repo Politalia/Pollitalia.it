@@ -4,7 +4,14 @@ Tutte le novità, i miglioramenti e le correzioni — scritte per te, non per gl
 
 ---
 
-## Versione 1.8.3 — 4 ottobre 2026 *(ultima versione)*
+## Versione 1.8.4 — 4 ottobre 2026 *(ultima versione)*
+
+### Novità
+- Dal browser parti subito dai sondaggi: «Come funziona» ti fa vedere lo swipe. Il quiz «Chi sei» è nell'app: aggiungi Pollitalia alla schermata Home e lo trovi lì
+
+---
+
+## Versione 1.8.3 — 4 ottobre 2026
 
 ### Novità
 - Lo Storico è nuovo: Votati, Creati e Saltati sono tre schede. Quello che hai votato o creato lo vedi a colpo d'occhio, due sondaggi per riga: tocchi e si apre la scheda intera

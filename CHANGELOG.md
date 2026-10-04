@@ -4,7 +4,19 @@ Tutte le novità, i miglioramenti e le correzioni — scritte per te, non per gl
 
 ---
 
-## Versione 1.8.2 — 3 ottobre 2026 *(ultima versione)*
+## Versione 1.8.3 — 4 ottobre 2026 *(ultima versione)*
+
+### Novità
+- Lo Storico è nuovo: Votati, Creati e Saltati sono tre schede. Quello che hai votato o creato lo vedi a colpo d'occhio, due sondaggi per riga: tocchi e si apre la scheda intera
+- I sondaggi che hai saltato tornano a mazzo: «Ci hai ripensato?». Li voti con un gesto, come nel feed, o li rimandi con «Ancora no»
+
+### Miglioramenti
+- Nello Storico vedi subito cosa hai risposto, con la percentuale, e se la pensavi diversamente dalla maggioranza
+- Nel profilo e nello Storico i numeri a tre cifre stanno nelle tessere anche sui telefoni piccoli
+
+---
+
+## Versione 1.8.2 — 3 ottobre 2026
 
 ### Novità
 - «Come funziona» nuovo: lo swipe lo provi su una scheda vera, con la manina che ti fa vedere come. Si apre da solo dopo «Chi sei?», poi dal «?» quando vuoi

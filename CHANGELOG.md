@@ -4,7 +4,14 @@ Tutte le novità, i miglioramenti e le correzioni — scritte per te, non per gl
 
 ---
 
-## Versione 1.8.4 — 4 ottobre 2026 *(ultima versione)*
+## Versione 1.8.5 — 6 ottobre 2026 *(ultima versione)*
+
+### Novità
+- Pollitalia arriva su App Store e Google Play. Su pollitalia.it/app vedi com'è fatta e lasci l'email: ti avvisiamo quando c'è
+
+---
+
+## Versione 1.8.4 — 4 ottobre 2026
 
 ### Novità
 - Dal browser parti subito dai sondaggi: «Come funziona» ti fa vedere lo swipe. Il quiz «Chi sei» è nell'app: aggiungi Pollitalia alla schermata Home e lo trovi lì

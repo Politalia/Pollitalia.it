@@ -4,7 +4,18 @@ Tutte le novità, i miglioramenti e le correzioni — scritte per te, non per gl
 
 ---
 
-## Versione 1.10.0 — 7 ottobre 2026 *(ultima versione)*
+## Versione 1.10.1 — 7 ottobre 2026 *(ultima versione)*
+
+### Miglioramenti
+- Anche Mercati in un attimo: da Poll e Barometro ci vai e torni senza che la pagina si ricarichi, e ritrovi la previsione, la sezione e la classifica dove le avevi lasciate
+- Tocchi di nuovo Mercati e la classifica torna in cima
+
+### Correzioni
+- Commenti dallo Storico su iPhone: il foglio resta attaccato alla tastiera già dalla prima volta, e la pagina sotto non scorre
+
+---
+
+## Versione 1.10.0 — 7 ottobre 2026
 
 ### Miglioramenti
 - Da Poll a Barometro e ritorno in un attimo: la pagina non si ricarica, e ritrovi la scheda dove l'avevi lasciata

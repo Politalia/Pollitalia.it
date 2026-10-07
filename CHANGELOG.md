@@ -4,7 +4,34 @@ Tutte le novità, i miglioramenti e le correzioni — scritte per te, non per gl
 
 ---
 
-## Versione 1.8.5 — 6 ottobre 2026 *(ultima versione)*
+## Versione 1.9.1 — 7 ottobre 2026 *(ultima versione)*
+
+### Miglioramenti
+- Nei commenti la tastiera dell'iPhone resta attaccata al campo: il foglio la segue, e dopo l'invio la tastiera resta su, come su Instagram
+- Se commenti senza account, il messaggio «Aspetta» si vede sopra i commenti, con la tastiera chiusa
+- Su pollitalia.it/app la card in mezzo non balla più quando scorri col dito
+- Dal telefono, in fondo alla pagina c'è «Provala adesso» invece del codice QR
+
+---
+
+## Versione 1.9.0 — 6 ottobre 2026
+
+### Novità
+- La cerchia: un sondaggio solo per le persone che scegli tu. Accendi «La mia cerchia» quando lo crei: arriva per primo nel feed, col bordo viola
+- Chiedi di entrare nella cerchia di qualcuno dal suo profilo. Chi ha la cerchia accetta o rifiuta da «La tua cerchia» e dalle notifiche
+- Chi crea un sondaggio della cerchia vede chi ha votato cosa
+- Cerca: la lente accanto alla campanella, per trovare le persone per nome
+- Blocca, dal «⋯» del profilo, e Segnala, per sondaggi e commenti
+
+### Miglioramenti
+- L'apertura «Poll / italia» riparte a ogni volta che apri il sito
+
+### Da sapere
+- Abbiamo aggiornato la Privacy e i Termini: la cerchia, la ricerca, i blocchi e le segnalazioni
+
+---
+
+## Versione 1.8.5 — 6 ottobre 2026
 
 ### Novità
 - Pollitalia arriva su App Store e Google Play. Su pollitalia.it/app vedi com'è fatta e lasci l'email: ti avvisiamo quando c'è

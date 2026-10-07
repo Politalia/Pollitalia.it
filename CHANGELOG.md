@@ -4,7 +4,16 @@ Tutte le novità, i miglioramenti e le correzioni — scritte per te, non per gl
 
 ---
 
-## Versione 1.9.1 — 7 ottobre 2026 *(ultima versione)*
+## Versione 1.10.0 — 7 ottobre 2026 *(ultima versione)*
+
+### Miglioramenti
+- Da Poll a Barometro e ritorno in un attimo: la pagina non si ricarica, e ritrovi la scheda dove l'avevi lasciata
+- Tocchi di nuovo Barometro e torni alla prima scheda
+- Tocchi una notifica con Pollitalia già aperta: ti porta lì, senza aprire un'altra finestra
+
+---
+
+## Versione 1.9.1 — 7 ottobre 2026
 
 ### Miglioramenti
 - Nei commenti la tastiera dell'iPhone resta attaccata al campo: il foglio la segue, e dopo l'invio la tastiera resta su, come su Instagram

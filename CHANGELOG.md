@@ -4,7 +4,14 @@ Tutte le novità, i miglioramenti e le correzioni — scritte per te, non per gl
 
 ---
 
-## Versione 1.10.1 — 7 ottobre 2026 *(ultima versione)*
+## Versione 1.10.2 — 7 ottobre 2026 *(ultima versione)*
+
+### Miglioramenti
+- Anche il Radar in un attimo: da Poll, Barometro e Mercati ci vai e torni senza che la pagina si ricarichi, e lo ritrovi dove l'avevi lasciato
+
+---
+
+## Versione 1.10.1 — 7 ottobre 2026
 
 ### Miglioramenti
 - Anche Mercati in un attimo: da Poll e Barometro ci vai e torni senza che la pagina si ricarichi, e ritrovi la previsione, la sezione e la classifica dove le avevi lasciate

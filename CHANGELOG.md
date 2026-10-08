@@ -4,7 +4,19 @@ Tutte le novità, i miglioramenti e le correzioni — scritte per te, non per gl
 
 ---
 
-## Versione 1.10.2 — 7 ottobre 2026 *(ultima versione)*
+## Versione 1.10.3 — 8 ottobre 2026 *(ultima versione)*
+
+### Miglioramenti
+- Anche il Profilo in un attimo: dalla barra ci vai e torni senza che la pagina si ricarichi, e lo ritrovi dove l'avevi lasciato
+- Tocchi di nuovo Profilo e torni in cima
+- «Scegli città» nel Radar apre subito «Dove sei» nel Profilo, senza ricaricare
+
+### Correzioni
+- Se entri nell'account senza cambiare pagina, i tuoi voti, le cerchie e il tuo @ arrivano subito: a volte restavano indietro fino a quando non ricaricavi
+
+---
+
+## Versione 1.10.2 — 7 ottobre 2026
 
 ### Miglioramenti
 - Anche il Radar in un attimo: da Poll, Barometro e Mercati ci vai e torni senza che la pagina si ricarichi, e lo ritrovi dove l'avevi lasciato

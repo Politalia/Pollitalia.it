@@ -4,7 +4,20 @@ Tutte le novità, i miglioramenti e le correzioni — scritte per te, non per gl
 
 ---
 
-## Versione 1.10.3 — 8 ottobre 2026 *(ultima versione)*
+## Versione 1.10.4 — 14 ottobre 2026 *(ultima versione)*
+
+### Miglioramenti
+- Notifiche e Storico si aprono sopra la scheda dove sei, in un attimo: la freccia ← ti riporta lì, e la ritrovi com'era
+- Una notifica che arriva mentre sei altrove resta nuova finché non la apri: la campanella si accende e ti aspetta
+- Da Notifiche e Storico tocchi una scheda della barra e ci vai dritto
+
+### Correzioni
+- Riaprendo l'app dopo un po', commenti e notifiche arrivano subito, senza aspettare che scrivi qualcosa
+- Mentre scrivi un commento, il campo resta in vista anche quando arrivano gli altri
+
+---
+
+## Versione 1.10.3 — 8 ottobre 2026
 
 ### Miglioramenti
 - Anche il Profilo in un attimo: dalla barra ci vai e torni senza che la pagina si ricarichi, e lo ritrovi dove l'avevi lasciato

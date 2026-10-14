@@ -4,7 +4,20 @@ Tutte le novità, i miglioramenti e le correzioni — scritte per te, non per gl
 
 ---
 
-## Versione 1.10.4 — 14 ottobre 2026 *(ultima versione)*
+## Versione 1.11.0 — 14 ottobre 2026 *(ultima versione)*
+
+### Miglioramenti
+- Per scriverci c'è un indirizzo nuovo: info@pollitalia.it
+- Lo Storico aperto dal Profilo, o da un'altra scheda, resta sopra quella: la barra la tiene accesa e la freccia ← ti riporta lì
+
+### Correzioni
+- Se una pagina resta ferma senza caricare, dopo qualche secondo si riprende da sola
+- Il mi piace nella scheda dello Storico batte come nel Poll
+- Il giro del Radar dal computer: domande e risposte in colonna, senza accavallarsi
+
+---
+
+## Versione 1.10.4 — 14 ottobre 2026
 
 ### Miglioramenti
 - Notifiche e Storico si aprono sopra la scheda dove sei, in un attimo: la freccia ← ti riporta lì, e la ritrovi com'era

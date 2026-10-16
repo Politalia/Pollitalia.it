@@ -4,7 +4,18 @@ Tutte le novità, i miglioramenti e le correzioni — scritte per te, non per gl
 
 ---
 
-## Versione 1.11.0 — 14 ottobre 2026 *(ultima versione)*
+## Versione 1.12.0 — 16 ottobre 2026 *(ultima versione)*
+
+### Novità
+- Pollitalia si usa dal telefono. Dal computer c'è una prova di un minuto: cinque sondaggi veri, i commenti, il Barometro e il Radar
+- Un sondaggio aperto dal computer parte proprio da lì, e il codice QR lo porta sul telefono
+
+### Da sapere
+- Dal computer i voti non contano: si vota dal telefono
+
+---
+
+## Versione 1.11.0 — 14 ottobre 2026
 
 ### Miglioramenti
 - Per scriverci c'è un indirizzo nuovo: info@pollitalia.it

@@ -4,7 +4,14 @@ Tutte le novità, i miglioramenti e le correzioni — scritte per te, non per gl
 
 ---
 
-## Versione 1.12.0 — 16 ottobre 2026 *(ultima versione)*
+## Versione 1.13.0 — 23 ottobre 2026 *(ultima versione)*
+
+### Miglioramenti
+- Nelle schede a due risposte il «vs» ora sta a metà, fra l'una e l'altra
+
+---
+
+## Versione 1.12.0 — 16 ottobre 2026
 
 ### Novità
 - Pollitalia si usa dal telefono. Dal computer c'è una prova di un minuto: cinque sondaggi veri, i commenti, il Barometro e il Radar

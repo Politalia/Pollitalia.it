@@ -4,7 +4,35 @@ Tutte le novità, i miglioramenti e le correzioni — scritte per te, non per gl
 
 ---
 
-## Versione 1.13.0 — 23 ottobre 2026 *(ultima versione)*
+## Versione 1.14.0 — 1 novembre 2026 *(ultima versione)*
+
+### Novità
+- Il Poll del giorno: ogni giorno, fra le 13 e le 15, esce un sondaggio uguale per tutti e resta aperto 24 ore. Ti arriva con una notifica; le percentuali le vedi dopo aver votato
+- La tua cerchia vede i tuoi voti, se vuoi tu: lo accendi dal profilo, e da lì in poi chi è nella tua cerchia vede cosa voti. Quelli di prima no, e mai sui sondaggi politici e delicati
+- Dopo il voto, «Guarda cosa ha votato la tua cerchia»: chi ha scelto cosa, risposta per risposta
+- Idea milionaria: hai un'idea per un'app o un business? La pubblichi col tuo nome, una a settimana e senza link, e gli altri ti dicono se ci sta, se la approvano o cosa cambierebbero
+- I tuoi interessi: scegli su cosa hai sempre ragione tu, e quei sondaggi ti arrivano prima. Li cambi dal profilo
+- Quindici categorie fra cui scegliere quando crei un sondaggio
+- Chi crea un sondaggio lo vota come tutti: nel foglio c'è «Tu cosa voti?»
+- «Vedi sulla mappa»: sotto i risultati, come ha votato ogni regione
+- Tema delicato: chi crea un sondaggio può segnarlo, e lì nessuno vede cosa hai votato
+
+### Miglioramenti
+- Il feed si rinfresca: se torni dopo un'ora riparte dai sondaggi nuovi, e quelli che stanno andando forte in queste ore salgono
+- Il foglio «Nuovo sondaggio» parte da Nazionale
+- Nei commenti c'è il nome del profilo di chi scrive
+- Nelle notifiche trovi sempre le più recenti
+- Se il profilo non si carica te lo dice, con Riprova
+
+### Correzioni
+- Esci toglie le notifiche da quel telefono
+- «Creati», nel profilo, conta solo i tuoi sondaggi
+- Se gli interessi non si salvano, restano sul telefono e si salvano al prossimo accesso
+- Nella prova dal computer, «Leggi cosa dicono» trova sempre dei commenti
+
+---
+
+## Versione 1.13.0 — 23 ottobre 2026
 
 ### Miglioramenti
 - Nelle schede a due risposte il «vs» ora sta a metà, fra l'una e l'altra

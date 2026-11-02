@@ -4,7 +4,25 @@ Tutte le novità, i miglioramenti e le correzioni — scritte per te, non per gl
 
 ---
 
-## Versione 1.14.0 — 1 novembre 2026 *(ultima versione)*
+## Versione 1.15.0 — 2 novembre 2026 *(ultima versione)*
+
+### Novità
+- Mandi un sondaggio a qualcuno della tua cerchia senza uscire dall'app: tocchi l'aereo, scegli le facce, ci scrivi due righe se vuoi
+- La campanella diventa la Posta: da una parte le notifiche, dall'altra i messaggi
+- Una conversazione per persona. Il sondaggio lo votate lì dentro, e dopo il voto vedi cosa ha scelto l'altro. Mai sui sondaggi politici e delicati
+- «Indovina cosa ho votato»: mandi un sondaggio che hai già votato e sfidi l'altro a indovinare la tua risposta
+- Ci si scrive solo dentro la cerchia, niente link, e chi blocchi non ti scrive più
+
+### Miglioramenti
+- Nelle impostazioni delle notifiche c'è «Messaggi»: lo spegni e i messaggi arrivano lo stesso, senza notifica
+- Un messaggio che non va lo segnali tenendolo premuto
+
+### Correzioni
+- Nelle idee milionarie un link non passa più nemmeno con un carattere invisibile in mezzo
+
+---
+
+## Versione 1.14.0 — 1 novembre 2026
 
 ### Novità
 - Il Poll del giorno: ogni giorno, fra le 13 e le 15, esce un sondaggio uguale per tutti e resta aperto 24 ore. Ti arriva con una notifica; le percentuali le vedi dopo aver votato

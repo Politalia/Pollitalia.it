@@ -4,7 +4,16 @@ Tutte le novità, i miglioramenti e le correzioni — scritte per te, non per gl
 
 ---
 
-## Versione 1.15.0 — 2 novembre 2026 *(ultima versione)*
+## Versione 1.15.1 — 3 novembre 2026 *(ultima versione)*
+
+### Correzioni
+- Nella chat il messaggio parte al primo tocco, e la tastiera resta aperta
+- L'aereo si accende quando scrivi e si spegne quando hai mandato
+- Mentre scrivi la barra in basso si toglie di mezzo, e l'ultimo messaggio non finisce più sotto il campo
+
+---
+
+## Versione 1.15.0 — 2 novembre 2026
 
 ### Novità
 - Mandi un sondaggio a qualcuno della tua cerchia senza uscire dall'app: tocchi l'aereo, scegli le facce, ci scrivi due righe se vuoi

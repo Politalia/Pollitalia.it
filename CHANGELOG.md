@@ -4,7 +4,17 @@ Tutte le novità, i miglioramenti e le correzioni — scritte per te, non per gl
 
 ---
 
-## Versione 1.15.1 — 3 novembre 2026 *(ultima versione)*
+## Versione 1.16.0 — 5 novembre 2026 *(ultima versione)*
+
+### Novità
+- Arrivano le buste: bronzo, argento e oro. Ne cade una ogni 25 voti, sopra il sondaggio che hai appena votato. Scorri per aprirla
+- Dentro ci sono le carte: 16 stili, comuni, rari ed epici. Le trovi nel Profilo, in «Le tue carte»
+- Vesti un sondaggio nuovo con una carta: la scegli quando lo crei, e lo vedono tutti così
+- La carta della viralità è la più rara: porta un tuo sondaggio in testa al feed di tutti per 24 ore
+
+---
+
+## Versione 1.15.1 — 3 novembre 2026
 
 ### Correzioni
 - Nella chat il messaggio parte al primo tocco, e la tastiera resta aperta

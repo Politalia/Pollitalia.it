@@ -4,7 +4,14 @@ Tutte le novità, i miglioramenti e le correzioni — scritte per te, non per gl
 
 ---
 
-## Versione 1.16.2 — 5 novembre 2026 *(ultima versione)*
+## Versione 1.16.3 — 5 novembre 2026 *(ultima versione)*
+
+### Correzioni
+- Il link a Instagram porta al profilo nuovo, @pollitalia_it
+
+---
+
+## Versione 1.16.2 — 5 novembre 2026
 
 ### Miglioramenti
 - Nel Barometro la categoria ha il suo colore, come le tessere che scegli quando crei un sondaggio

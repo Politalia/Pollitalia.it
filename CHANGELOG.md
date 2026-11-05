@@ -4,7 +4,17 @@ Tutte le novità, i miglioramenti e le correzioni — scritte per te, non per gl
 
 ---
 
-## Versione 1.16.1 — 5 novembre 2026 *(ultima versione)*
+## Versione 1.16.2 — 5 novembre 2026 *(ultima versione)*
+
+### Miglioramenti
+- Nel Barometro la categoria ha il suo colore, come le tessere che scegli quando crei un sondaggio
+
+### Correzioni
+- Il Barometro aperto da un sondaggio non ha più la scheda spostata a sinistra
+
+---
+
+## Versione 1.16.1 — 5 novembre 2026
 
 ### Correzioni
 - Se hai aperto una conversazione nuova e l'altro ti scrive per primo, il suo messaggio arriva subito

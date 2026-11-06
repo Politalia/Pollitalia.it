@@ -4,7 +4,18 @@ Tutte le novità, i miglioramenti e le correzioni — scritte per te, non per gl
 
 ---
 
-## Versione 1.16.3 — 5 novembre 2026 *(ultima versione)*
+## Versione 1.16.4 — 6 novembre 2026 *(ultima versione)*
+
+### Miglioramenti
+- In chat il messaggio compare appena lo mandi, e i primi messaggi e le prime ricerche partono più in fretta
+
+### Correzioni
+- Su Android Commenti e Condividi restano aperti, invece di richiudersi subito
+- A fine quiz il ritratto resta al suo posto
+
+---
+
+## Versione 1.16.3 — 5 novembre 2026
 
 ### Correzioni
 - Il link a Instagram porta al profilo nuovo, @pollitalia_it

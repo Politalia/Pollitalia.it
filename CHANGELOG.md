@@ -4,7 +4,14 @@ Tutte le novità, i miglioramenti e le correzioni — scritte per te, non per gl
 
 ---
 
-## Versione 1.17.0 — 6 novembre 2026 *(ultima versione)*
+## Versione 1.17.1 — 6 novembre 2026 *(ultima versione)*
+
+### Correzioni
+- Dentro Instagram su iPhone una freccia ti mostra dove toccare per aprire Pollitalia nel browser, e «Continua qui» si vede meglio
+
+---
+
+## Versione 1.17.0 — 6 novembre 2026
 
 ### Novità
 - Dal telefono, senza account, si parte da un tutorial di un minuto coi sondaggi d'esempio, poi si crea l'account: il giorno che esce l'app sei già dentro

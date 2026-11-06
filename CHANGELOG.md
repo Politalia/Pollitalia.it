@@ -4,7 +4,15 @@ Tutte le novità, i miglioramenti e le correzioni — scritte per te, non per gl
 
 ---
 
-## Versione 1.17.1 — 6 novembre 2026 *(ultima versione)*
+## Versione 1.17.2 — 6 novembre 2026 *(ultima versione)*
+
+### Miglioramenti
+- Il tutorial dal telefono parte col logo, ti dà il benvenuto e ti guida passo passo: si tocca solo quello che ti chiede
+- Nel tutorial il Radar si presenta prima di spiegarsi
+
+---
+
+## Versione 1.17.1 — 6 novembre 2026
 
 ### Correzioni
 - Dentro Instagram su iPhone una freccia ti mostra dove toccare per aprire Pollitalia nel browser, e «Continua qui» si vede meglio

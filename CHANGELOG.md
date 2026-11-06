@@ -4,7 +4,20 @@ Tutte le novità, i miglioramenti e le correzioni — scritte per te, non per gl
 
 ---
 
-## Versione 1.17.3 — 6 novembre 2026 *(ultima versione)*
+## Versione 1.17.4 — 7 novembre 2026 *(ultima versione)*
+
+### Miglioramenti
+- Dal computer si prova lo stesso tutorial del telefono, dentro un telefono, col codice da inquadrare accanto
+
+### Correzioni
+- Su Android, aprendo pollitalia.it, Chrome non chiede più di controllare il telefono
+- Dopo l'accesso con Google non si vede più per un attimo la home
+- Da «Sei dentro», Elimina account porta davvero all'eliminazione
+- Il sonar del Radar gira di nuovo
+
+---
+
+## Versione 1.17.3 — 6 novembre 2026
 
 ### Miglioramenti
 - Nel tutorial, finito il Radar, un ultimo fumetto e poi la registrazione: un tocco con Google o Apple e sei dentro

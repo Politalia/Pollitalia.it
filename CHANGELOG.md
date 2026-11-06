@@ -4,7 +4,14 @@ Tutte le novità, i miglioramenti e le correzioni — scritte per te, non per gl
 
 ---
 
-## Versione 1.17.2 — 6 novembre 2026 *(ultima versione)*
+## Versione 1.17.3 — 6 novembre 2026 *(ultima versione)*
+
+### Miglioramenti
+- Nel tutorial, finito il Radar, un ultimo fumetto e poi la registrazione: un tocco con Google o Apple e sei dentro
+
+---
+
+## Versione 1.17.2 — 6 novembre 2026
 
 ### Miglioramenti
 - Il tutorial dal telefono parte col logo, ti dà il benvenuto e ti guida passo passo: si tocca solo quello che ti chiede

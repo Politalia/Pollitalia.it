@@ -4,7 +4,19 @@ Tutte le novità, i miglioramenti e le correzioni — scritte per te, non per gl
 
 ---
 
-## Versione 1.17.4 — 7 novembre 2026 *(ultima versione)*
+## Versione 1.17.5 — 7 novembre 2026 *(ultima versione)*
+
+### Miglioramenti
+- Nel tutorial c'è anche l'idea milionaria: le stelle e i commenti di chi la cambierebbe
+
+### Correzioni
+- Nel tutorial non si salta più una scheda: saltando la prima si perdevano i commenti
+- Nel tutorial il Barometro si apre senza lampi
+- In «Sei dentro» niente più Esci ed Elimina account: l'account si gestirà dall'app
+
+---
+
+## Versione 1.17.4 — 7 novembre 2026
 
 ### Miglioramenti
 - Dal computer si prova lo stesso tutorial del telefono, dentro un telefono, col codice da inquadrare accanto

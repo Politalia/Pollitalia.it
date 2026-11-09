@@ -4,7 +4,19 @@ Tutte le novità, i miglioramenti e le correzioni — scritte per te, non per gl
 
 ---
 
-## Versione 1.17.6 — 9 novembre 2026 *(ultima versione)*
+## Versione 1.17.7 — 9 novembre 2026 *(ultima versione)*
+
+### Miglioramenti
+- Dal computer la pagina di Pollitalia ti fa vedere anche Idea milionaria
+- La pagina dal computer è più corta: arrivi in fondo prima
+- Su Cos’è Pollitalia, FAQ e Novità niente animazione d’apertura e un menu più pulito
+
+### Correzioni
+- Dal computer i cookie si scelgono anche dalla pagina principale
+
+---
+
+## Versione 1.17.6 — 9 novembre 2026
 
 ### Miglioramenti
 - Quando entri con Google o Apple ti arriva un'email di conferma

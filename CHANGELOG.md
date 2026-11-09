@@ -4,7 +4,15 @@ Tutte le novità, i miglioramenti e le correzioni — scritte per te, non per gl
 
 ---
 
-## Versione 1.17.5 — 7 novembre 2026 *(ultima versione)*
+## Versione 1.17.6 — 9 novembre 2026 *(ultima versione)*
+
+### Miglioramenti
+- Quando entri con Google o Apple ti arriva un'email di conferma
+- Privacy e cookie aggiornati con i nuovi fornitori
+
+---
+
+## Versione 1.17.5 — 7 novembre 2026
 
 ### Miglioramenti
 - Nel tutorial c'è anche l'idea milionaria: le stelle e i commenti di chi la cambierebbe

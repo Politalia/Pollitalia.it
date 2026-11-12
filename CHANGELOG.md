@@ -4,7 +4,17 @@ Tutte le novità, i miglioramenti e le correzioni — scritte per te, non per gl
 
 ---
 
-## Versione 1.17.7 — 9 novembre 2026 *(ultima versione)*
+## Versione 1.17.8 — 13 novembre 2026 *(ultima versione)*
+
+### Novità
+- Nel Poll il tasto «★ Idee»: acceso, vedi solo le idee milionarie
+
+### Miglioramenti
+- Profili, commenti e notifiche più protetti: i controlli sul server sono più severi
+
+---
+
+## Versione 1.17.7 — 9 novembre 2026
 
 ### Miglioramenti
 - Dal computer la pagina di Pollitalia ti fa vedere anche Idea milionaria

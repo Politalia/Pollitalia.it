@@ -4,7 +4,14 @@ Tutte le novità, i miglioramenti e le correzioni — scritte per te, non per gl
 
 ---
 
-## Versione 1.17.8 — 13 novembre 2026 *(ultima versione)*
+## Versione 1.17.9 — 14 novembre 2026 *(ultima versione)*
+
+### Miglioramenti
+- Dietro le quinte parte il Barometro nuovo: da adesso si raccolgono i numeri che gli servono
+
+---
+
+## Versione 1.17.8 — 13 novembre 2026
 
 ### Novità
 - Nel Poll il tasto «★ Idee»: acceso, vedi solo le idee milionarie

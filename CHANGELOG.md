@@ -4,7 +4,14 @@ Tutte le novità, i miglioramenti e le correzioni — scritte per te, non per gl
 
 ---
 
-## Versione 1.17.10 — 14 novembre 2026 *(ultima versione)*
+## Versione 1.17.11 — 14 novembre 2026 *(ultima versione)*
+
+### Correzioni
+- Nell’app la chiave dell’admin si apre di nuovo anche dal telefono
+
+---
+
+## Versione 1.17.10 — 14 novembre 2026
 
 ### Miglioramenti
 - Il Barometro nuovo è quasi pronto: l’Italia fatta di luci, una per ogni voto, arriva presto

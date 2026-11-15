@@ -4,7 +4,17 @@ Tutte le novità, i miglioramenti e le correzioni — scritte per te, non per gl
 
 ---
 
-## Versione 1.17.11 — 14 novembre 2026 *(ultima versione)*
+## Versione 1.17.12 — 15 novembre 2026 *(ultima versione)*
+
+### Miglioramenti
+- Il tutorial dice subito che è un giro guidato: alcuni pulsanti sono spenti apposta, nell’app saranno tutti accesi
+
+### Correzioni
+- Il tutorial non riparte più da capo a metà del primo giro
+
+---
+
+## Versione 1.17.11 — 14 novembre 2026
 
 ### Correzioni
 - Nell’app la chiave dell’admin si apre di nuovo anche dal telefono

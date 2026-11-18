@@ -4,7 +4,17 @@ Tutte le novità, i miglioramenti e le correzioni — scritte per te, non per gl
 
 ---
 
-## Versione 1.17.12 — 15 novembre 2026 *(ultima versione)*
+## Versione 1.17.13 — 15 novembre 2026 *(ultima versione)*
+
+### Correzioni
+- In chat, con la tastiera aperta, gli ultimi messaggi restano in vista
+- Un link a una pagina che non c’è più ti porta ai sondaggi, non a una pagina d’errore
+- Senza rete l’app te lo dice, invece di caricare all’infinito
+- Senza rete il profilo non sembra più vuoto
+
+---
+
+## Versione 1.17.12 — 15 novembre 2026
 
 ### Miglioramenti
 - Il tutorial dice subito che è un giro guidato: alcuni pulsanti sono spenti apposta, nell’app saranno tutti accesi

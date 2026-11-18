@@ -4,7 +4,14 @@ Tutte le novità, i miglioramenti e le correzioni — scritte per te, non per gl
 
 ---
 
-## Versione 1.17.15 — 18 novembre 2026 *(ultima versione)*
+## Versione 1.17.16 — 19 novembre 2026 *(ultima versione)*
+
+### Miglioramenti
+- Il Radar lo puoi guardare su un’altra città: tocca il nome in cima e scegli regione e comune. La tua città nel profilo resta quella
+
+---
+
+## Versione 1.17.15 — 18 novembre 2026
 
 ### Miglioramenti
 - La carta della viralità la puoi usare anche mentre crei il sondaggio, non solo dalle tue carte

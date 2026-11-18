@@ -4,7 +4,14 @@ Tutte le novità, i miglioramenti e le correzioni — scritte per te, non per gl
 
 ---
 
-## Versione 1.17.14 — 18 novembre 2026 *(ultima versione)*
+## Versione 1.17.15 — 18 novembre 2026 *(ultima versione)*
+
+### Miglioramenti
+- La carta della viralità la puoi usare anche mentre crei il sondaggio, non solo dalle tue carte
+
+---
+
+## Versione 1.17.14 — 18 novembre 2026
 
 ### Miglioramenti
 - La tua città la cambi una volta ogni 30 giorni: nel profilo vedi da quando puoi cambiarla di nuovo

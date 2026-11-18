@@ -4,7 +4,14 @@ Tutte le novità, i miglioramenti e le correzioni — scritte per te, non per gl
 
 ---
 
-## Versione 1.17.13 — 15 novembre 2026 *(ultima versione)*
+## Versione 1.17.14 — 18 novembre 2026 *(ultima versione)*
+
+### Miglioramenti
+- La tua città la cambi una volta ogni 30 giorni: nel profilo vedi da quando puoi cambiarla di nuovo
+
+---
+
+## Versione 1.17.13 — 15 novembre 2026
 
 ### Correzioni
 - In chat, con la tastiera aperta, gli ultimi messaggi restano in vista

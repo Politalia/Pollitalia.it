@@ -4,7 +4,14 @@ Tutte le novità, i miglioramenti e le correzioni — scritte per te, non per gl
 
 ---
 
-## Versione 1.17.16 — 19 novembre 2026 *(ultima versione)*
+## Versione 1.17.17 — 19 novembre 2026 *(ultima versione)*
+
+### Miglioramenti
+- «Segnala un problema» ora si apre dentro l’app: scegli di cosa si tratta, scrivi cosa è successo e invia. Le segnalazioni sulla sicurezza dei minori le guardiamo per prime
+
+---
+
+## Versione 1.17.16 — 19 novembre 2026
 
 ### Miglioramenti
 - Il Radar lo puoi guardare su un’altra città: tocca il nome in cima e scegli regione e comune. La tua città nel profilo resta quella

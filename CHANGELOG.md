@@ -4,7 +4,15 @@ Tutte le novità, i miglioramenti e le correzioni — scritte per te, non per gl
 
 ---
 
-## Versione 1.17.17 — 19 novembre 2026 *(ultima versione)*
+## Versione 1.17.18 — 23 novembre 2026 *(ultima versione)*
+
+### Correzioni
+- Nell’app «Le tue carte» è tornata nel Profilo: a volte non si vedeva
+- Nelle domande la «j» ora sembra una «j»
+
+---
+
+## Versione 1.17.17 — 19 novembre 2026
 
 ### Miglioramenti
 - «Segnala un problema» ora si apre dentro l’app: scegli di cosa si tratta, scrivi cosa è successo e invia. Le segnalazioni sulla sicurezza dei minori le guardiamo per prime

@@ -4,7 +4,25 @@ Tutte le novità, i miglioramenti e le correzioni — scritte per te, non per gl
 
 ---
 
-## Versione 1.17.18 — 23 novembre 2026 *(ultima versione)*
+## Versione 1.17.19 — 24 novembre 2026 *(ultima versione)*
+
+### Novità
+- Mentre trascini un sondaggio la scheda prende il colore della tua scelta, e il tasto sotto si accende
+- Il Barometro si accende dal primo voto, regione per regione (sui sondaggi politici servono più voti)
+- Nel Profilo e nella Posta tira giù per aggiornare
+
+### Miglioramenti
+- Con pochi voti vedi solo le percentuali; il numero dei voti arriva da 100
+- Le risposte a due hanno colori opposti, così si distinguono subito
+- Registrandoti vedi mentre scrivi cosa manca alla password, e puoi mostrarla
+
+### Correzioni
+- Con i caratteri grandi del telefono il risultato del quiz si scorre fino ai tasti
+- Il calendario della data di nascita non parte più da oggi
+
+---
+
+## Versione 1.17.18 — 23 novembre 2026
 
 ### Correzioni
 - Nell’app «Le tue carte» è tornata nel Profilo: a volte non si vedeva

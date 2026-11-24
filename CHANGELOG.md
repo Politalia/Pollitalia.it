@@ -4,7 +4,25 @@ Tutte le novità, i miglioramenti e le correzioni — scritte per te, non per gl
 
 ---
 
-## Versione 1.17.19 — 24 novembre 2026 *(ultima versione)*
+## Versione 1.17.20 — 24 novembre 2026 *(ultima versione)*
+
+### Novità
+- In Mercati c'è «Le mie»: le previsioni che hai votato, e quante ne hai prese
+- Nello Storico trovi anche le idee che hai votato e creato, e puoi filtrare sondaggi, previsioni e idee
+
+### Miglioramenti
+- Il Barometro in 3D si apre su tutti i telefoni
+- Un sondaggio mandato alla tua cerchia parte subito
+- In Mercati «Da risolvere» ora si chiama «In attesa»
+
+### Correzioni
+- Il tutorial del Barometro non sparisce più a metà
+- Scrivendo a un amico della cerchia la riga resta sopra la tastiera
+- Le facce della cerchia non escono più vuote
+
+---
+
+## Versione 1.17.19 — 24 novembre 2026
 
 ### Novità
 - Mentre trascini un sondaggio la scheda prende il colore della tua scelta, e il tasto sotto si accende

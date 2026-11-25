@@ -4,7 +4,28 @@ Tutte le novità, i miglioramenti e le correzioni — scritte per te, non per gl
 
 ---
 
-## Versione 1.17.20 — 24 novembre 2026 *(ultima versione)*
+## Versione 1.18.0 — 25 novembre 2026 *(ultima versione)*
+
+### Novità
+- Nel Barometro ci sono i Sindaci: tocca una regione e guarda chi va più virale in ogni comune. Se non vuoi comparire, nel profilo spegni «Vediti nel Barometro»
+- In chat rispondi a un messaggio facendolo scorrere a destra, e tenendolo premuto ci metti una reazione
+- Nei commenti: scorri a destra per rispondere, due tocchi per il mi piace
+
+### Miglioramenti
+- Tasti e pagine rispondono subito al dito
+- I fogli che salgono dal basso si chiudono tirandoli giù
+- Nel Radar la città si cambia toccando la pillola nel titolo
+- Votare e creare sondaggi che girano ti avvicina alla Giunta del tuo comune
+
+### Correzioni
+- La notifica del Poll del giorno porta subito al sondaggio, senza restare su «Caricamento»
+- Il Barometro non mostra più quello vecchio per un attimo
+- Coi commenti aperti lo sfondo non scorre più insieme al dito
+- Nel Poll del giorno «In diretta» resta in cima
+
+---
+
+## Versione 1.17.20 — 24 novembre 2026
 
 ### Novità
 - In Mercati c'è «Le mie»: le previsioni che hai votato, e quante ne hai prese

@@ -4,7 +4,29 @@ Tutte le novità, i miglioramenti e le correzioni — scritte per te, non per gl
 
 ---
 
-## Versione 1.18.0 — 25 novembre 2026 *(ultima versione)*
+## Versione 1.19.0 — 27 novembre 2026 *(ultima versione)*
+
+### Novità
+- Entri con Apple o con Google in un tocco. L'email c'è ancora, in «Altri modi per entrare»
+- La corona della settimana va a chi c'è più giorni, e nel profilo c'è l'albo d'oro con le coccarde di Sindaci e Vice
+- Nel Barometro, sopra i Sindaci della regione, ci sono Presidente e Vice
+
+### Miglioramenti
+- Tocchi la notifica di un commento e si aprono subito i commenti
+- Nei commenti e in chat il testo va a capo mentre scrivi
+- La barra sopra il Poll è solo icone, e c'è già il cervello del Brainstorming: arriva a breve
+- Titoli e domande più facili da leggere
+- In «Dove sei» cambi anche la regione, non solo il comune
+
+### Correzioni
+- Scrivendo tante faccine il cursore non si perde più
+- Sui telefoni piccoli «Esci» e «Registrati» non escono più dallo schermo
+- Nell'app, la richiesta di entrare nella cerchia apre il profilo giusto
+- Con «Riduci movimento» acceso niente più animazioni a metà
+
+---
+
+## Versione 1.18.0 — 25 novembre 2026
 
 ### Novità
 - Nel Barometro ci sono i Sindaci: tocca una regione e guarda chi va più virale in ogni comune. Se non vuoi comparire, nel profilo spegni «Vediti nel Barometro»

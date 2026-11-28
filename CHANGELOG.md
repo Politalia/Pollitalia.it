@@ -4,7 +4,26 @@ Tutte le novità, i miglioramenti e le correzioni — scritte per te, non per gl
 
 ---
 
-## Versione 1.19.0 — 27 novembre 2026 *(ultima versione)*
+## Versione 1.20.0 — 28 novembre 2026 *(ultima versione)*
+
+### Novità
+- Arriva il livello, da 1 a 100: sale con quello che fai ogni giorno, e lo vedi sull'adesivo del profilo
+- A certi livelli trovi una busta in regalo, con pezzi nuovi per il ritratto e locandine per il profilo
+- Più sali, più sondaggi crei al giorno
+- Dal livello 25 i tuoi commenti hanno l'adesivo LV accanto al nome
+
+### Miglioramenti
+- Nei commenti hai fino a 500 caratteri
+- Nuovo sondaggio: c'è anche la categoria «Altro»
+- Il Brainstorming è in arrivo: lo stiamo provando con pochi
+
+### Correzioni
+- Arrivato al limite di caratteri, la faccina non entra più a metà
+- Nei sondaggi a due risposte la domanda non copre più i nomi delle risposte
+
+---
+
+## Versione 1.19.0 — 27 novembre 2026
 
 ### Novità
 - Entri con Apple o con Google in un tocco. L'email c'è ancora, in «Altri modi per entrare»
